@@ -1,5 +1,5 @@
-## [ \* Picture Robot ](https://github.com/plmcdowe/School/tree/1228ab2c2261ae7d5b3b14264a321303cdc0361b/PersonalProjects/PictureRobot)  
-> An Arduino robot controlled through Python to copy physical photographs with a DSLR camera.   
+# Picture Robot
+### An Arduino robot controlled through Python to copy physical photographs with a DSLR camera.   
 >> The Arduino Uno + Adafruit Motor Shield drives:   
 >> \> Six, 5v 28BYJ-48 stepper motors   
 >> \> One, 12v vacuum pump   
