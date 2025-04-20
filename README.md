@@ -1,5 +1,5 @@
 # Picture Robot
-### An Arduino robot controlled through Python to copy physical photographs with a DSLR camera.   
+#### An Arduino robot controlled through Python to copy physical photographs with a DSLR camera.    
 > The Arduino Uno + Adafruit Motor Shield drives:   
 >> \> Six, 5v 28BYJ-48 stepper motors   
 >> \> One, 12v vacuum pump   
